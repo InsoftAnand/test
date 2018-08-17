@@ -1,0 +1,2 @@
+// Ripple-effect animation
+
